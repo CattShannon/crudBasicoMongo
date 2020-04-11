@@ -2,7 +2,7 @@
 
 Crud realizado con **SpringBoot, Mongo y Docker**
 
-##Notas
+## Notas
 
 Se realizaron las acciones básicas de un  CRUD (Create - Read - Update - Delete) y adicional
 Se agregaron metodos para listar a todas las personas registradas en la BD y se creó un metodo
